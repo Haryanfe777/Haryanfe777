@@ -1,16 +1,16 @@
 ### **👋 Salut et Bienvenue! I'm Habeeb Olawale Hammed**
 
-**Master of Science in Data Science & Artificial Intelligence** | Actively seeking a full-time role in **Machine Learning Engineering, NLP, or Generative AI.**
+**Master of Science in Data Science & Artificial Intelligence** | Actively seeking a full-time role in **Generative AI, Agentic System, or Computer Vision.**
 
-I am a results-oriented AI Engineer specializing in building and deploying intelligent systems. My expertise lies at the intersection of **Deep Learning**, **Natural Language Processing (NLP)**, and **MLOps**, with a core mission to turn complex data into measurable business impact.
+I am a results-oriented AI Engineer specializing in building and deploying intelligent systems. My expertise lies at the intersection of **Deep Learning**, **Natural Language Processing (NLP)**, **Generative AI** and **MLOps**, with a core mission to turn complex data into measurable business impact.
 
 ---
 
 ### **🎯 My Focus & Career Status**
 
 * **Status:** **🎓 Recent Graduate**
-* **Key Focus:** RAG Architectures, Computer Vision, MLOps, Statistical Rigor
-* **Looking For:** Full-Time ML/AI Engineering opportunities
+* **Key Focus:** RAG Architectures, Agentic System, Computer Vision, MLOps, Statistical Rigor
+* **Looking For:** Full-Time ML/GenAI Engineering opportunities
 * **Location:** **📍 France** (Open to relocation for roles that combine innovation, system deployment, and measurable impact)
 
 ---
